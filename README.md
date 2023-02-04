@@ -1,6 +1,6 @@
 <h1 align="center">Oi, sou a Mewryn Trindade</h1>
 <p align="center" > Aqui você saberá 4 curiosidades sobre mim 😊.</p>
-<img alt="capa" src="https://images.pexels.com/photos/2421374/pexels-photo-2421374.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+<img alt="capa" src="https://images.pexels.com/photos/2421374/pexels-photo-2421374.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="100%" height="50%">
 
 
 ## 🚀 Tecnologias
