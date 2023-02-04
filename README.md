@@ -15,4 +15,3 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Este é meu primeiro projeto do curso de Designer Web na Practicum Brasil. As aulas começaram dia 26/01/23 e nosso prazo para postar o projeto na plataforma do curso foi 01/02/23. Este é um dos meus primeiros contatos com as tecnologias citadas. Este README fiz de metida mesmo rsrsrs
 
-- [Visite o projeto online](127.0.0.1:5500/index.html)
